@@ -1,0 +1,9 @@
+{
+  "name": "ui-svg",
+  "version": "0.0.0",
+  "description": "format html svg with react",
+  "main": "index.js",
+  "repository": "git@github.com:jishiniao/svg.git",
+  "author": "kaimiyang",
+  "license": "MIT"
+}
